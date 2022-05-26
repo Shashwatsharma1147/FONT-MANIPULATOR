@@ -1,0 +1,32 @@
+body
+{
+    background: url("istockphoto-1150296818-1024x1024.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.header
+{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0;
+    box-shadow: 5px 5px 20px blue;
+}
+.notes
+{
+    font-size: 20px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.copyrightFooter
+{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    background-color: coral;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 5px 5px 18px cyan;
+    color: brown;
+    font-weight: bold;
+}
